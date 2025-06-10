@@ -1,14 +1,12 @@
 # CSCI-570-Algo
 
-Algorithm Performance Summary
-Contributors
+Algorithm Performance Summary Contributors
+
 Parvathi Sanjana Pericherla – USC ID: 6075279768
 
 Keerthi Sankaralingam – USC ID: 6628249966
 
 Shireen Chand – USC ID: 8152137082
-
-All contributors made equal contributions.
 
 Overview
 This document presents a performance comparison between two algorithms — a Basic and an Efficient version — using runtime and memory metrics across varying input sizes.

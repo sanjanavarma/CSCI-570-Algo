@@ -9,7 +9,7 @@ Keerthi Sankaralingam – USC ID: 6628249966
 Shireen Chand – USC ID: 8152137082
 
 Overview
-This document presents a performance comparison between two algorithms — a Basic and an Efficient version — using runtime and memory metrics across varying input sizes.
+This document presents a performance comparison between two algorithms — a Basic and an Efficient version for sequence alignment problem— using runtime and memory metrics across varying input sizes.
 
 Data Points Collected
 Metrics were collected for combined input sizes (M + N) from 16 to 3968, including:
